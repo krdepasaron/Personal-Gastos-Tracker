@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[pgtgastos] (Table)
+       [dbo].[pgtuser] (Table)
+       [dbo].[fk_gastos_user] (Foreign Key)
+       [dbo].[lagay] (Procedure)
+       [dbo].[listgastos] (Procedure)
+       [dbo].[login] (Procedure)
+       [dbo].[register] (Procedure)
+       [dbo].[showdateofgastos] (Procedure)
+
+** Supporting actions

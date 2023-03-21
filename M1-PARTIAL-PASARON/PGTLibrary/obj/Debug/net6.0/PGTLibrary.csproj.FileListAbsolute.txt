@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\bin\Debug\net6.0\PGTLibrary.deps.json
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\bin\Debug\net6.0\PGTLibrary.dll
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\bin\Debug\net6.0\PGTLibrary.pdb
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\PGTLibrary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\PGTLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\PGTLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\PGTLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\PGTLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\PGTLibrary.dll
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\refint\PGTLibrary.dll
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\PGTLibrary.pdb
+C:\Users\user\source\repos\M1-PARTIAL-PASARON\PGTLibrary\obj\Debug\net6.0\ref\PGTLibrary.dll
